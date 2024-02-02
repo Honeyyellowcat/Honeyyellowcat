@@ -1,6 +1,4 @@
-——— ୨୧ ——— @Honeyyellowcat ——— ୨୧ ———
-
-・﹒・﹒・﹒・﹒﹒・・
+——— ୨୧ ——— @Honeyyellowcat ・﹒・﹒・﹒・﹒﹒・・
 
 ୨୧・I’m interested in Aeronautics & Astronautics Engineering, particularly in coding for aerospace innovation ┈┈・୨୧
 
@@ -13,4 +11,3 @@
 ━━━━━━ ♡ ━━━━━━━
 
 ✄ - - - - - - - - - - - - - - - - - - -
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
