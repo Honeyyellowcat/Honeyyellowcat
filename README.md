@@ -1,11 +1,15 @@
-— ୨୧ — your_pinkflower — ୨୧ — 
+# — ୨୧ Hello, I'm Felicity! ୨୧ — 
 
-- ୨୧・I’m interested in Aeronautics & Astronautics Engineering, particularly in coding for aerospace innovation 
+୨୧・Aeronautics & Astronautics Engineering, with a focus on coding, embedded systems, and simulation.
 
-- ୨୧・I’m currently learning more about embedded systems and exploring programming languages like Python, C, and C++ 
+୨୧・I’m currently learning more about embedded systems and proficient in MATLAB, Arduino UNO, Python, and exploring C/C++.
 
-- ୨୧・I’m looking to collaborate on aerospace projects that involve coding, simulation, and system design 
-
-- ୨୧・Fun fact: My living space resembles a mini-jungle because of my ever-growing collection of plants  
+୨୧・Aerospace projects that involve coding, simulation, and system design.
 
 ✄ - - - - - - - - - - - - - - - - - - -
+
+![Alt Text](Pic_1.svg) ![Alt Text](Pic_2.svg)
+
+✄ - - - - - - - - - - - - - - - - - - -
+
+![Alt Text](Pic_3.svg)
