@@ -8,7 +8,8 @@
 
 ✄ - - - - - - - - - - - - - - - - - - -
 
-![Alt Text](Pic_3.svg) ![Alt Text](Pic_2.svg)
+<!-- ![Alt Text](Pic_3.svg) -->
+![Alt Text](Pic_2.svg)
 
 ✄ - - - - - - - - - - - - - - - - - - -
 
