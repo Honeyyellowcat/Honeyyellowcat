@@ -2,11 +2,9 @@
 
 ✄ - - - - - - - - - - - - - - - - - - - -
 
-୨୧・Aeronautics & Astronautics Engineering, with a focus on coding, embedded systems, and simulation.
-
-୨୧・I use daily: MATLAB, Arduino UNO, Python, Java and C/C++.
-
-୨୧・Aerospace projects that involve coding, simulation, and system design.
+・Aeronautics & Astronautics Engineering, with a focus on coding, embedded systems, and simulation.
+・I use daily: MATLAB, Arduino UNO, Python, Java and C/C++.
+・Aerospace projects that involve coding, simulation, and system design.
 
 ✄ - - - - - - - - - - - - - - - - - - - -
 
